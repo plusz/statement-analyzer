@@ -1,0 +1,15 @@
+# secrets
+.env
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# data - never commit statements or exports
+statements/
+revolut/
+mbank/
+*.pdf
+*.csv
+raport*.txt
